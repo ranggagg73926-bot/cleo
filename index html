@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>cleo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="kartu-profil">
+        <img src="images.jpg" alt="Foto profil saya">
+        <h1>Muhammad Evan</h1>
+        <p>siswa SMA/SMK/MA yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
+        <a href="https://www.instagram.com//moch.vann.69">kunjungi instagram saya</a>
+        <button id="sapaButton">Sapa Saya!</button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
